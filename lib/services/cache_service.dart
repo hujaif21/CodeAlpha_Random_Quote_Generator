@@ -102,9 +102,7 @@ class CacheService {
   static List<String> getSavedQuoteIds() {
     final list = _prefs.getStringList(_savedQuotesKey);
     if (list == null) {
-      const defaults = ['wis10', 'cal02', 'foc09'];
-      _prefs.setStringList(_savedQuotesKey, defaults);
-      return List<String>.from(defaults);
+      return [];
     }
 
     final validIds = getAllAvailableQuotes().map((q) => q.id).toSet();
