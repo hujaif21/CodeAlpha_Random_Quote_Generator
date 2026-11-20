@@ -50,3 +50,12 @@ flutter run
 
 # 4. Build release APK
 flutter build apk --release
+The compiled APK will be generated at `build/app/outputs/flutter-apk/app-release.apk`.
+
+---
+
+## 👨‍💻 Author
+
+**Hujaif Belim**  
+App Development Intern @ **CodeAlpha**  
+GitHub: [@hujaif21](https://github.com/hujaif21)
