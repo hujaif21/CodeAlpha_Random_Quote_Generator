@@ -12,6 +12,12 @@
 - **Direct Release APK Download:** [Pocket Wisdom v1.0.0 (Google Drive)](https://drive.google.com/file/d/1mmnSoX-yCMaoRH1ZhMrfXxGPXPp7oKSX/view?usp=drive_link)
 
 ---
+## ⚠️ Installation & Permissions Note
+
+- **Installing the APK:** Since this release APK is distributed outside the Google Play Store, Android may ask you to allow **"Install unknown apps"** for your browser or file manager—tap **Allow** to proceed.
+- **Notifications (Android 13+):** On first launch or when enabling daily reminders/sample notifications, tap **Allow** on the notification permission prompt.
+- **Battery Optimization (Realme / Xiaomi / Oppo / Vivo):** Some custom Android skins restrict background alarms by default. If scheduled 8:30 AM reminders are delayed, open **App Info → Battery Usage** and enable **Allow background activity** (or set to **Unrestricted**).
+
 
 ## ✨ Key Features
 
